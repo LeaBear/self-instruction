@@ -7,4 +7,6 @@
 
 - [ ] keep the habit:efficiently reading
 
+- [ ] practise briefly drawing
+
 ### _time limit:by the end of 2018_
