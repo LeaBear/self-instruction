@@ -1,0 +1,2 @@
+# self-instruction
+goals
